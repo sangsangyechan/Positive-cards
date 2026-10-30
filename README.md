@@ -1,4 +1,4 @@
-# 병현이의 긍정카드 — 모바일 PWA 시제품 (10장)
+# 긍정카드 — 모바일 PWA 시제품 (10장)
 
 ## 실행
 압축 해제 후 해당 폴더에서 `python -m http.server 8000` 실행 → `http://localhost:8000` 접속. `index.html`을 파일로 직접 열면 `cards.json` 로딩이 실패할 수 있습니다.
