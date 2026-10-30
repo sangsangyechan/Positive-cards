@@ -1,0 +1,72 @@
+[
+  {
+    "id": 1,
+    "category": "위로",
+    "title": "오늘도 애썼다, {voc}.",
+    "message": "다 잘하지 못했어도 괜찮아. 여기까지 온 것도 잘한 거야.",
+    "image": "images/001.svg"
+  },
+  {
+    "id": 2,
+    "category": "평온",
+    "title": "오늘은 조금 쉬어도 돼, {voc}.",
+    "message": "급한 마음은 잠깐 내려놓자. 모든 걸 오늘 해결할 필요는 없잖아.",
+    "image": "images/002.svg"
+  },
+  {
+    "id": 3,
+    "category": "희망",
+    "title": "아직 끝난 게 아니야, {voc}.",
+    "message": "오늘은 흐려도 내일의 하늘까지 흐리라는 법은 없으니까.",
+    "image": "images/003.svg"
+  },
+  {
+    "id": 4,
+    "category": "행복",
+    "title": "작은 기쁨도 기쁨이야, {voc}.",
+    "message": "맛있는 거 하나 먹고, 좋아하는 풍경도 한 번 보자.",
+    "image": "images/004.svg"
+  },
+  {
+    "id": 5,
+    "category": "감사",
+    "title": "별일 없는 하루도 꽤 괜찮지, {voc}?",
+    "message": "오늘 무사히 지나온 순간 하나쯤은 고맙게 생각해도 좋겠어.",
+    "image": "images/005.svg"
+  },
+  {
+    "id": 6,
+    "category": "자기확신",
+    "title": "너는 네 방식대로 가면 돼, {voc}.",
+    "message": "남들이랑 똑같은 속도일 필요는 없잖아.",
+    "image": "images/006.svg"
+  },
+  {
+    "id": 7,
+    "category": "성장",
+    "title": "조금씩 자라고 있어, {voc}.",
+    "message": "오늘은 티가 안 나도 괜찮아. 작은 변화는 원래 조용하거든.",
+    "image": "images/007.svg"
+  },
+  {
+    "id": 8,
+    "category": "실행",
+    "title": "딱 하나만 해보자, {voc}.",
+    "message": "완벽한 시작 말고, 지금 할 수 있는 아주 작은 일 하나.",
+    "image": "images/008.svg"
+  },
+  {
+    "id": 9,
+    "category": "용기",
+    "title": "무서워도 괜찮아, {voc}.",
+    "message": "용기는 겁이 없는 게 아니라 겁이 나도 한 발 내딛는 거니까.",
+    "image": "images/009.svg"
+  },
+  {
+    "id": 10,
+    "category": "자기돌봄",
+    "title": "네 편도 좀 들어줘, {voc}.",
+    "message": "다른 사람 챙기듯 너한테도 다정하게 말해줘.",
+    "image": "images/010.svg"
+  }
+]
